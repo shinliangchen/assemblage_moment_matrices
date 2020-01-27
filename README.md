@@ -1,6 +1,6 @@
 # assemblage_moment_matrices
 
-Before running the codes, make sure you have packages for solving semi-definite programs (SDP).
+To run the codes involving solving semi-definite programs, one has to use YALMIP as the modelling language and any solver compatible with YALMIP (e.g., SDPA, SDPT3, SDPNAL, etc.).
 
 This project is devided into two parts:
 
