@@ -16,11 +16,17 @@ This project is devided into two parts:
  The other example is "ex_AMM_proj_Tsirelson_bound_elegant_BI.m", which computes an upper bound on the Tsirelson bound for a given violation of the elegant Bell inequality. In the filename, "proj" indicates that the AMM are in the form of projectors, i.e., the form that originally proposed in the paper https://arxiv.org/abs/1603.08532 .
  
  In the above two examples, one can easily change them into any Bell scenario by adjusting the following parameters:
+ 
  nx - the number of Alice's measurement settings
+ 
  ny - the number of Bob's measurement settings
+ 
  na - the number of Alice's measurement outcomes
+ 
  nb - the number of Bob's measurement outcomes
+ 
  Bell_inequality - the Bell inequality under consideration
+ 
  
  ## 2. Robust self-testing of quantum assemblages
  This part includes the related MATLAB codes that computes a lower bound on the fidelity between the underlying assemblage and the reference one for a given Bell inequality violation.
