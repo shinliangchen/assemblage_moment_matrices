@@ -30,7 +30,7 @@ This project is devided into two parts:
  
  ## 2. Robust self-testing of quantum assemblages
  This part includes the related MATLAB codes that computes a lower bound on the fidelity between the underlying assemblage and the reference one for a given Bell inequality violation.
- Ref: https://arxiv.org/abs/20xx.xxxxx
+ Ref: https://arxiv.org/abs/2002.02823
  
  For instance, "ex_RSTA_fidelity_bound_CHSH.m" computes a lower bound on the fidelity between the underlying assemblage and the CHSH-type assemblage for a given CHSH inequality violation.
  
